@@ -8,4 +8,4 @@
 =================================================='''
 
 def hello(name):
-    print(f'Hello, I am {name}')
+    print(f'Hello, I am {name}. Nice to meet u.')
